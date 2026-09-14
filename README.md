@@ -17,7 +17,7 @@ This repository contains the MATLAB simulation scripts used to generate the data
 ## Demo & Usage Instructions
 The scripts generate their own simulated data internally. No external input data files are required.
 
-### To replicate Figure 1d and Figure 1e data:
+### To reproduce Figure 1d and Figure 1e data:
 1. Open MATLAB and navigate to the script folder.
 2. Run the script `size_to_alpha_disk.m` and `size_to_alpha_hole.m` by clicking **Run** or typing `size_to_alpha_disk` in the Command Window.
 3. **Expected Output:** The script will execute the simulation and generate the data corresponding to Figure 1d.
